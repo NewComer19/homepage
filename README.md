@@ -1,2 +1,2 @@
-Hocus-pocus!
+
 # homepage
